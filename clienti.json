@@ -1,0 +1,975 @@
+{
+    "clienti": [
+        {
+            "soleadify_id": "a47dda76-93e4-11eb-b89f-536884b3e7dd",
+            "match_score": 0.98,
+            "match_method": "website",
+            "additional_match_details": null,
+            "company_name": "Prudential Stages",
+            "company_legal_names": [
+                "PRUDENTIAL LLC.",
+                "Prudential Financial Inc.",
+                "Prudential Investment Management Services LLC."
+            ],
+            "company_commercial_names": [
+                "Prudential Financial",
+                "Prudential Advisors",
+                "Prudential Stages"
+            ],
+            "main_country_code": "US",
+            "main_country": "United States",
+            "main_region": "New Jersey",
+            "main_city": "Newark",
+            "main_street": "Pacific Street",
+            "main_street_number": "88",
+            "main_postcode": "07105",
+            "main_latitude": 40.72505569458008,
+            "main_longitude": -74.16691589355469,
+            "locations": [
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Manatee County",
+                    "postcode": "34211",
+                    "street": "Gatewood Drive",
+                    "street_number": "11065",
+                    "latitude": 27.476633071899414,
+                    "longitude": -82.43096923828125
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Minnesota",
+                    "city": "Rochester",
+                    "postcode": "55901",
+                    "street": "Superior Drive Northwest",
+                    "street_number": "2746",
+                    "latitude": 44.05222702026367,
+                    "longitude": -92.5237045288086
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Indiana",
+                    "city": "Terre Haute",
+                    "postcode": "47803",
+                    "street": "Ohio Boulevard",
+                    "street_number": "2901",
+                    "latitude": 39.46466064453125,
+                    "longitude": -87.37431335449219
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Washington",
+                    "city": "Bellevue",
+                    "postcode": "98007",
+                    "street": "146th Place Southeast",
+                    "street_number": "3380",
+                    "latitude": 47.580047607421875,
+                    "longitude": -122.14532470703125
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Sarasota",
+                    "postcode": "34236",
+                    "street": "Main Street",
+                    "street_number": "1605",
+                    "latitude": 27.33678436279297,
+                    "longitude": -82.53807067871094
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Saint Petersburg",
+                    "postcode": "33713",
+                    "street": "5th Avenue North",
+                    "street_number": "3145",
+                    "latitude": 27.77741241455078,
+                    "longitude": -82.6760482788086
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Orlando",
+                    "postcode": "32801",
+                    "street": "South Orange Avenue",
+                    "street_number": "795",
+                    "latitude": 28.532424926757812,
+                    "longitude": -81.37643432617188
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "South Carolina",
+                    "city": "Charleston",
+                    "postcode": "29407",
+                    "street": "Executive Hall Road",
+                    "street_number": "2090",
+                    "latitude": 32.80724334716797,
+                    "longitude": -80.03607940673828
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "California",
+                    "city": "Los Angeles",
+                    "postcode": "90067",
+                    "street": "Century Park East",
+                    "street_number": "2049",
+                    "latitude": 34.05851745605469,
+                    "longitude": -118.41315460205078
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Pennsylvania",
+                    "city": "Allentown",
+                    "postcode": "18102",
+                    "street": "South 9th Street",
+                    "street_number": "30",
+                    "latitude": 40.60019302368164,
+                    "longitude": -75.47510528564453
+                }
+            ],
+            "num_locations": 1446,
+            "company_type": "Public",
+            "year_founded": 1875,
+            "employee_count": 40916,
+            "estimated_revenue": null,
+            "short_description": "Prudential Financial, Inc. is an American Fortune Global 500 and Fortune 500 company whose subsidiaries provide insurance, retirement planning, investment management, and other products and services to both retail and institutional customers throughout the United States and in over 40 other countries.",
+            "long_description": "Prudential Financial, Inc. is an American Fortune Global 500 and Fortune 500 company whose subsidiaries provide insurance, retirement planning, investment management, and other products and services to both retail and institutional customers throughout the United States and in over 40 other countries. In 2019, Prudential was the largest insurance provider in the United States with $815.1 billion in total assets. The company uses the Rock of Gibraltar as its logo.",
+            "business_tags": [
+                "Investment Managers",
+                "Insurance Provider",
+                "Retirement Plans"
+            ],
+            "main_business_category": "Insurance - Agents, Carriers & Brokers",
+            "main_industry": "Finance",
+            "main_sector": null,
+            "primary_phone": "+18002981345",
+            "phone_numbers": [
+                "+18005240542",
+                "+18002251852",
+                "+18777782100",
+                "+18002981345",
+                "+18008797012",
+                "+18006211089",
+                "+18002357637",
+                "+18444551002",
+                "+18772323619",
+                "+18553084434",
+                "+18887782888",
+                "+18008421718",
+                "+18882570412",
+                "+18007784357",
+                "+18007783279",
+                "+18003532847",
+                "+18773677781",
+                "+18007320416",
+                "+18336261865",
+                "+18007783827",
+                "+18002077806",
+                "+18009924472",
+                "+18005629874"
+            ],
+            "primary_email": "prudentialgiproducerservices@prudential.com",
+            "emails": [
+                "prudentialgiproducerservices@prudential.com"
+            ],
+            "other_emails": null,
+            "website_url": "https://www.prudential.com/",
+            "website_domain": "prudential.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://facebook.com/prudential",
+            "twitter_url": "https://twitter.com/prudential",
+            "instagram_url": "https://instagram.com/prudential",
+            "linkedin_url": "https://linkedin.com/company/prudential-financial",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "ibm websphere portal, hcl digital experience",
+            "alexa_rank": 52170,
+            "technologies": [
+                "customer data platform: cooladata",
+                "analytics: adobe analytics",
+                "analytics: mouse flow",
+                "analytics: facebook custom audiences",
+                "ui frameworks: bootstrap",
+                "analytics: google ads conversion tracking",
+                "advertising networks: doubleclick floodlight",
+                "documentation tools: demandbase",
+                "web frameworks: bootstrap",
+                "advertising: demandbase",
+                "surveys: medallia",
+                "tag managers: ensighten tag management",
+                "cache tools: varnish",
+                "retargeting: adobe audience manager",
+                "widgets: facebook",
+                "retargeting: facebook custom audiences",
+                "dev tools: dynatrace",
+                "analytics: ruxit",
+                "lead generation: kampyle",
+                "segmentation: adobe audience manager",
+                "cms: ibm websphere portal",
+                "security: imperva",
+                "paas: demandbase",
+                "web servers: apache",
+                "cms: hcl digital experience",
+                "analytics: medallia",
+                "analytics: dynatrace",
+                "analytics: kampyle",
+                "document management systems: adobe audience manager",
+                "analytics: linkedin insight tag",
+                "tag managers: google tag manager",
+                "retargeting: google remarketing tag",
+                "advertising: thetradedesk",
+                "javascript libraries: jquery",
+                "analytics: sitecatalyst",
+                "retargeting: facebook",
+                "analytics: facebook pixel",
+                "retargeting: google doubleclick floodlight",
+                "advertising: microsoft advertising",
+                "tag managers: ensighten",
+                "analytics: adobe audience manager",
+                "marketing automation: eloqua",
+                "advertising: twitter ads",
+                "advertising networks: google doubleclick floodlight",
+                "issue trackers: kampyle",
+                "javascript frameworks: jquery",
+                "analytics: google analytics",
+                "programming languages: java"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "525190",
+                    "label": "Other Insurance Funds"
+                },
+                "secondary": [
+                    {
+                        "code": "523940",
+                        "label": "Portfolio Management and Investment Advice"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.3",
+                    "label": "Trusts, funds and similar financial entities"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8723"
+            ],
+            "sic": [
+                {
+                    "code": "6331",
+                    "label": "Fire, Marine, and Casualty Insurance (self insurers)"
+                },
+                {
+                    "code": "6324",
+                    "label": "Hospital and Medical Service Plans (self insurers)"
+                },
+                {
+                    "code": "6733",
+                    "label": "Trusts, Except Educational, Religious, and Charitable (vacation funds for employees)"
+                },
+                {
+                    "code": "6321",
+                    "label": "Accident and Health Insurance (self insurers)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6430",
+                    "label": "Trusts, funds and similar financial entities"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-AC",
+                "label": "Asset Management & Custody Activities"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "sics_subsector": {
+                "code": "FN.1",
+                "label": "Capital Markets"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "641501",
+                    "label": "Financial Planners / Advisors"
+                },
+                {
+                    "code": "641201",
+                    "label": "Insurance Agents / Brokers / Adjusters"
+                },
+                {
+                    "code": "399101",
+                    "label": "Building Owner - Multiple Occupancy - Mixed-Use Commercial"
+                },
+                {
+                    "code": "891702",
+                    "label": "Inspection Services - Not Otherwise Classified"
+                },
+                {
+                    "code": "529101",
+                    "label": "Building Owner - Multiple Occupancy - Retail (Not Enclosed Mall)"
+                }
+            ],
+            "created_at": "2019-11-24T03:02:53.000Z",
+            "last_updated_at": "2023-09-13T06:43:56.000Z"
+        },
+        {
+            "soleadify_id": "29cda93b-93e5-11eb-8474-3bbe2d07207d",
+            "match_score": 0.97,
+            "match_method": "website",
+            "additional_match_details": null,
+            "company_name": "Official Coca-Cola® US Website",
+            "company_legal_names": [
+                "Coca-Cola bottlers Merkle Inc."
+            ],
+            "company_commercial_names": [
+                "Official Coca-Cola Site",
+                "Official Coca-Cola® US Website",
+                "The Coca-Cola"
+            ],
+            "main_country_code": "US",
+            "main_country": "United States",
+            "main_region": "Georgia",
+            "main_city": "Atlanta",
+            "main_street": "Coca-Cola Place Southeast",
+            "main_street_number": "1",
+            "main_postcode": "30313",
+            "main_latitude": 33.753543853759766,
+            "main_longitude": -84.38098907470703,
+            "locations": [
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Massachusetts",
+                    "city": "Oak Bluffs",
+                    "postcode": "02557",
+                    "street": "Hudson Avenue",
+                    "street_number": "136",
+                    "latitude": 41.44630813598633,
+                    "longitude": -70.58345794677734
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Tennessee",
+                    "city": "Union City",
+                    "postcode": "38261",
+                    "street": "East Reelfoot Avenue",
+                    "street_number": "1915",
+                    "latitude": 36.412471771240234,
+                    "longitude": -89.03227996826172
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Kansas",
+                    "city": "Mitchell County",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "MA",
+                    "country": "Morocco",
+                    "region": "Tangier-Tetouan-Al Hoceima",
+                    "city": "Tangier",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "North Carolina",
+                    "city": "Asheville",
+                    "postcode": "28805",
+                    "street": "South Tunnel Road",
+                    "street_number": "3",
+                    "latitude": 35.58034133911133,
+                    "longitude": -82.52667999267578
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Alabama",
+                    "city": "Spanish Fort",
+                    "postcode": "36527",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Riviera Beach",
+                    "postcode": "33404",
+                    "street": "Garden Road",
+                    "street_number": "6553",
+                    "latitude": 26.772680282592773,
+                    "longitude": -80.09258270263672
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Alabama",
+                    "city": "Dothan",
+                    "postcode": "36303",
+                    "street": "Commons Drive",
+                    "street_number": "900",
+                    "latitude": 31.253578186035156,
+                    "longitude": -85.42472839355469
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Texas",
+                    "city": "Laredo",
+                    "postcode": "78041",
+                    "street": "San Dario Avenue",
+                    "street_number": "5300",
+                    "latitude": 27.551250457763672,
+                    "longitude": -99.5010757446289
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Indiana",
+                    "city": "Noblesville",
+                    "postcode": "46060",
+                    "street": "Town Center Boulevard",
+                    "street_number": "13901",
+                    "latitude": 39.99065399169922,
+                    "longitude": -85.93193054199219
+                }
+            ],
+            "num_locations": 129,
+            "company_type": "Private",
+            "year_founded": null,
+            "employee_count": null,
+            "estimated_revenue": null,
+            "short_description": "Enjoy the refreshing, original taste of Coca-Cola - shop online or find near you today.",
+            "long_description": "Coca-Cola Y3000 was co-created with artificial intelligence to help bring the flavor of tomorrow to Coke fans today. Find inspiration for elevating your next meal from simply eating to truly connecting. Discover the collection today. Create Memories with Custom Bottles. Whether you're celebrating a birthday, watching the big game, or toasting the newlyweds, custom bottles make the occasion special.",
+            "business_tags": [
+                "The Coca-Cola Company",
+                "Custom Bottles",
+                "Coke Zero",
+                "Coca-Cola Products",
+                "Bottles & Caps",
+                "Recycled Materials"
+            ],
+            "main_business_category": "Beverages & Refreshments",
+            "main_industry": "Food & Beverage",
+            "main_sector": null,
+            "primary_phone": "+18005574616",
+            "phone_numbers": [
+                "+18885375503",
+                "+18005574616",
+                "+18777726782",
+                "+18445612653",
+                "+18004382653",
+                "+18005202653"
+            ],
+            "primary_email": "u003ethecoca-colacompany@coca-cola.com",
+            "emails": [
+                "privacy@coca-cola.com"
+            ],
+            "other_emails": [
+                "u003ethecoca-colacompany@coca-cola.com",
+                "thecoca-colacompany@coca-cola.com",
+                "u003eprivacy@coca-cola.com"
+            ],
+            "website_url": "https://us.coca-cola.com/",
+            "website_domain": "coca-cola.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/cocacola/",
+            "twitter_url": "https://twitter.com/CocaCola",
+            "instagram_url": null,
+            "linkedin_url": null,
+            "ios_app_url": "tps://apps.apple.com/us/app/coca-cola-usa/id13106756",
+            "android_app_url": "tps://play.google.com/store/apps/details?id=com.coca_cola.android.ccnamobilea",
+            "youtube_url": "https://www.youtube.com/user/cocacola",
+            "cms": "adobe experience manager, wordpress -  5.3.2",
+            "alexa_rank": 44490,
+            "technologies": [
+                "javascript frameworks: requirejs",
+                "widgets: twitter",
+                "cms: adobe experience manager",
+                "analytics: facebook custom audiences",
+                "paas: amazon web services",
+                "miscellaneous: onetrust",
+                "javascript libraries: jquery - 3.5.1",
+                "widgets: facebook",
+                "font scripts: typekit",
+                "retargeting: facebook custom audiences",
+                "miscellaneous: optanon - \\1[^]*optanon\\.css",
+                "cookie compliance: onetrust",
+                "tag managers: adobe dynamic tag management",
+                "seo tool: facebook friendly",
+                "miscellaneous: amazon s3",
+                "tag managers: google tag manager",
+                "retargeting: facebook",
+                "javascript frameworks: jquery - 3.5.1",
+                "seo tool: twitter friendly",
+                "cdn: amazon cloudfront",
+                "analytics: google analytics",
+                "programming languages: java",
+                "web servers: iis - 10.0",
+                "paas: azure",
+                "programming languages: php - 5.6.40",
+                "miscellaneous: webpack",
+                "javascript frameworks: modernizr - 2.6.2.",
+                "web frameworks: microsoft asp.net",
+                "font scripts: google font api",
+                "video players: youtube",
+                "databases: mysql",
+                "javascript frameworks: moment.js",
+                "advertising networks: appnexus",
+                "font scripts: font awesome",
+                "javascript frameworks: jquery migrate",
+                "javascript frameworks: angularjs - 1.6.3",
+                "operating systems: windows server",
+                "cms: wordpress -  5.3.2",
+                "blogging platforms: wordpress -  5.3.2",
+                "seo tool: yoast seo - 12.7.1",
+                "javascript libraries: jquery",
+                "javascript frameworks: angular - 9.1.12",
+                "javascript libraries: modernizr - 2.6.2.",
+                "javascript libraries: jquery migrate",
+                "javascript libraries: moment.js",
+                "javascript frameworks: jquery",
+                "analytics: tiktok pixel",
+                "javascript frameworks: handlebars",
+                "javascript libraries: day.js",
+                "miscellaneous: optanon",
+                "captchas: recaptcha",
+                "ecommerce: cart functionality",
+                "advertising: thetradedesk",
+                "analytics: pinterest conversion tag",
+                "analytics: facebook pixel"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "312111",
+                    "label": "Soft Drink Manufacturing"
+                },
+                "secondary": null
+            },
+            "nace_rev2": [
+                {
+                    "code": "11.07",
+                    "label": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "2157"
+            ],
+            "sic": [
+                {
+                    "code": "2086",
+                    "label": "Bottled and Canned Soft Drinks and Carbonated Water (except bottled water)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "1104",
+                    "label": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+                }
+            ],
+            "sics_industry": {
+                "code": "FB-FR",
+                "label": "Food Retailers & Distributors"
+            },
+            "sics_sector": {
+                "code": "FB",
+                "label": "Food & Beverage"
+            },
+            "sics_subsector": {
+                "code": "FB.3",
+                "label": "Food & Beverage Retail"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "506101",
+                    "label": "Wholesale - Beverages (Non-Alcoholic)"
+                },
+                {
+                    "code": "592001",
+                    "label": "Retail - Liquor / Beer / Wine Stores"
+                },
+                {
+                    "code": "592002",
+                    "label": "Retail - Beer / Wine Stores (Brew Your Own)"
+                },
+                {
+                    "code": "208101",
+                    "label": "Breweries / Wineries / Vinegar Distillers"
+                },
+                {
+                    "code": "513001",
+                    "label": "Wholesale - Liquor / Beer / Wine"
+                }
+            ],
+            "created_at": "2019-11-24T00:23:08.000Z",
+            "last_updated_at": "2023-09-15T11:02:06.000Z"
+        },
+        {
+            "soleadify_id": "16402af3-93e5-11eb-8474-3bbe2d07207d",
+            "match_score": 1,
+            "match_method": "website",
+            "additional_match_details": null,
+            "company_name": "HUGO BOSS",
+            "company_legal_names": [
+                "HUGO BOSS Inc."
+            ],
+            "company_commercial_names": [
+                "BOSS Shop",
+                "HUGO BOSS EXPERIENCE CA",
+                "HUGO BOSS Beijing SKP Shop"
+            ],
+            "main_country_code": "DE",
+            "main_country": "Germany",
+            "main_region": "Baden-Württemberg",
+            "main_city": "Metzingen",
+            "main_street": "Dieselstraße",
+            "main_street_number": "12",
+            "main_postcode": "72555",
+            "main_latitude": 48.546939849853516,
+            "main_longitude": 9.271591186523438,
+            "locations": [
+                {
+                    "country_code": "PL",
+                    "country": "Poland",
+                    "region": "Łódzkie Voivodship",
+                    "city": "Lodz",
+                    "postcode": "91-071",
+                    "street": "Jana Karskiego",
+                    "street_number": "5",
+                    "latitude": 51.779876708984375,
+                    "longitude": 19.4453182220459
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Miami-Dade County",
+                    "postcode": "33172",
+                    "street": "Northwest 12th Street",
+                    "street_number": "11401",
+                    "latitude": 25.787748336791992,
+                    "longitude": -80.38029479980469
+                },
+                {
+                    "country_code": "MX",
+                    "country": "Mexico",
+                    "region": "Jalisco",
+                    "city": "Zapopan",
+                    "postcode": "45020",
+                    "street": "Calle Rafaél Sanzio",
+                    "street_number": "150",
+                    "latitude": 20.6764901,
+                    "longitude": -103.4302239
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Florida",
+                    "city": "Orlando",
+                    "postcode": "32839",
+                    "street": "Conroy Road",
+                    "street_number": "4200",
+                    "latitude": 28.485572814941406,
+                    "longitude": -81.43157958984375
+                },
+                {
+                    "country_code": "CH",
+                    "country": "Switzerland",
+                    "region": "Basel-City",
+                    "city": "Basel",
+                    "postcode": "4001",
+                    "street": "Freie Strasse",
+                    "street_number": "50",
+                    "latitude": 47.55588912963867,
+                    "longitude": 7.590231418609619
+                },
+                {
+                    "country_code": "MX",
+                    "country": "Mexico",
+                    "region": "Guanajuato",
+                    "city": "León",
+                    "postcode": "37150",
+                    "street": "Boulevard Juan José Alonso de Torres",
+                    "street_number": "3002",
+                    "latitude": 21.159015655517578,
+                    "longitude": -101.69527435302734
+                },
+                {
+                    "country_code": "GB",
+                    "country": "United Kingdom",
+                    "region": "Northern Ireland",
+                    "city": "County Antrim",
+                    "postcode": "BT1 4QG",
+                    "street": "Victoria Square",
+                    "street_number": "ulg15",
+                    "latitude": 54.598411560058594,
+                    "longitude": -5.924474239349365
+                },
+                {
+                    "country_code": "MU",
+                    "country": "Mauritius",
+                    "region": "Port Louis",
+                    "city": "Port Louis",
+                    "postcode": "11307",
+                    "street": "Port Louis – The North Motorway",
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "ZA",
+                    "country": "South Africa",
+                    "region": "Gauteng",
+                    "city": "Midrand",
+                    "postcode": "1686",
+                    "street": "Magwa Crescent",
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Nevada",
+                    "city": "Las Vegas",
+                    "postcode": "89109",
+                    "street": "South Las Vegas Boulevard",
+                    "street_number": "3200",
+                    "latitude": 36.1439323425293,
+                    "longitude": -115.15711212158203
+                }
+            ],
+            "num_locations": 1050,
+            "company_type": "Public",
+            "year_founded": 1924,
+            "employee_count": 12000,
+            "estimated_revenue": 3600000000,
+            "short_description": "Hugo Boss AG, often styled as BOSS, is a luxury fashion house headquartered in Metzingen, Baden-Württemberg, Germany.",
+            "long_description": "Hugo Boss AG, often styled as BOSS, is a luxury fashion house headquartered in Metzingen, Baden-Württemberg, Germany. The company sells clothing, accessories, footwear, and fragrances. Hugo Boss is one of the largest German clothing companies, with global sales of €2.9 billion in 2019. Its stock is a component of the MDAX. The company was founded in 1924 by Hugo Boss and originally produced general-purpose clothing. With the onset of the Great Depression and the rise of Nazism in the early 1930s, Boss began to produce uniforms for the Nazi Party. Boss would eventually supply the wartime German government with military uniforms, resulting in a large boost in sales.",
+            "business_tags": [
+                "Female's Collection",
+                "Sleepwear & Innerwear",
+                "Children's Accessories",
+                "Boots And Ankle Boots",
+                "Dog Accessories",
+                "Winter Outfits",
+                "Tracksuits & Sportswear",
+                "Underwear & Socks",
+                "Beanies & Gloves",
+                "Bags And Luggage"
+            ],
+            "main_business_category": "Clothing Stores",
+            "main_industry": "Apparel",
+            "main_sector": null,
+            "primary_phone": "+497123940",
+            "phone_numbers": [
+                "+13057926099",
+                "+18089237300",
+                "+4971239480902",
+                "+12124851900",
+                "+18013590951",
+                "+447209451101",
+                "+17804840316",
+                "+15617991826",
+                "+523336737358",
+                "+541155555314",
+                "+17166845210",
+                "+18182432477",
+                "+17028360940",
+                "+13103606935",
+                "+18473297160",
+                "+14073458889",
+                "+12012910591",
+                "+12013438880",
+                "+14154952082",
+                "+12129651300",
+                "+12486431938",
+                "+14089840100",
+                "+13108592888",
+                "+4971239480259",
+                "+85231881171",
+                "+17804841362",
+                "+19167841002",
+                "+17812737315",
+                "+17138501053",
+                "+12166883200",
+                "+17026969444",
+                "+8227596721",
+                "+12129400600",
+                "+13054420011",
+                "+861057382671",
+                "+16195747700",
+                "+15027712001",
+                "+17034180690",
+                "+19733797779",
+                "+14048466066",
+                "+17145572361",
+                "+13057925199",
+                "+85227351962",
+                "+13103710613",
+                "+497123940",
+                "+13106570011",
+                "+12105583188",
+                "+16093177773"
+            ],
+            "primary_email": "service-us@hugoboss.com",
+            "emails": [
+                "investor-relations@hugoboss.com",
+                "service-us@hugoboss.com",
+                "customerservice-us@hugoboss.com",
+                "service@hugoboss.com",
+                "informationrequests_us@hugoboss.com"
+            ],
+            "other_emails": [
+                "experience-us@hugoboss.com"
+            ],
+            "website_url": "https://www.hugoboss.com/us/",
+            "website_domain": "hugoboss.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/hugoboss/",
+            "twitter_url": "https://twitter.com/HUGOBOSS",
+            "instagram_url": "https://www.instagram.com/boss/",
+            "linkedin_url": "https://www.linkedin.com/company/hugo-boss",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "typo3 cms",
+            "alexa_rank": 11655,
+            "technologies": [
+                "javascript frameworks: requirejs",
+                "javascript frameworks: jquery - 1",
+                "javascript frameworks: list.js",
+                "paas: azure",
+                "a/b testing: dynamic yield",
+                "ecommerce: salesforce commerce cloud",
+                "javascript libraries: slick",
+                "video players: videojs",
+                "javascript libraries: jquery migrate - 3.3.1",
+                "javascript frameworks: hammer.js",
+                "javascript libraries: list.js",
+                "javascript libraries: hammer.js",
+                "ui frameworks: zurb foundation - 6.6.3",
+                "lead generation: salesforce",
+                "crm: salesforce",
+                "personalisation: dynamic yield",
+                "javascript libraries: modernizr",
+                "cdn: azure cdn",
+                "ecommerce: shoprunner",
+                "cms: typo3 cms",
+                "web frameworks: zurb foundation - 6.6.3",
+                "javascript frameworks: modernizr",
+                "seo tool: facebook friendly",
+                "javascript frameworks: jquery migrate - 3.3.1",
+                "javascript frameworks: slick",
+                "ecommerce: cart functionality",
+                "tag managers: google tag manager",
+                "retargeting: google remarketing tag",
+                "javascript graphics: chart.js",
+                "cookie compliance: evidon",
+                "cdn: cloudflare",
+                "programming languages: php",
+                "javascript libraries: polyfill",
+                "javascript libraries: jquery - 1"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "493110",
+                    "label": "General Warehousing and Storage"
+                },
+                "secondary": null
+            },
+            "nace_rev2": [
+                {
+                    "code": "52.1",
+                    "label": "Warehousing and storage"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8292"
+            ],
+            "sic": [
+                {
+                    "code": "4226",
+                    "label": "Special Warehousing and Storage, NEC (warehousing in foreign trade zones)"
+                },
+                {
+                    "code": "4225",
+                    "label": "General Warehousing and Storage (except self-storage and miniwarehouses)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "5210",
+                    "label": "Warehousing and storage"
+                }
+            ],
+            "sics_industry": {
+                "code": "CG-AA",
+                "label": "Apparel, Accessories & Footwear"
+            },
+            "sics_sector": {
+                "code": "CG",
+                "label": "Consumer Goods"
+            },
+            "sics_subsector": {
+                "code": "CG.1",
+                "label": "Apparel & Textiles"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "569401",
+                    "label": "Retail - Clothing (Women's, no Children's)"
+                },
+                {
+                    "code": "569301",
+                    "label": "Retail - Clothing (Family, incl Children's)"
+                },
+                {
+                    "code": "231001",
+                    "label": "Clothing Manufacturing (Men's / Women's Wear)"
+                },
+                {
+                    "code": "427301",
+                    "label": "Warehousing - General Merchandise (No Flammables / Explosives)"
+                },
+                {
+                    "code": "569501",
+                    "label": "Retail - Clothing (Men's, no Children's)"
+                }
+            ],
+            "created_at": "2019-11-24T12:45:30.000Z",
+            "last_updated_at": "2023-09-07T01:04:49.023Z"
+        }
+    ]
+}

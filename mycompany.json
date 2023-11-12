@@ -1,0 +1,204 @@
+{
+    "soleadify_id": "3972066a-93e5-11eb-8e19-198fb02d6f96",
+    "match_score": 0.98,
+    "match_method": "website",
+    "additional_match_details": null,
+    "company_name": "Adobe",
+    "company_legal_names": [
+        "Adobe Inc"
+    ],
+    "company_commercial_names": [
+        "Adobe",
+        "Adobe Systems"
+    ],
+    "main_country_code": "US",
+    "main_country": "United States",
+    "main_region": "California",
+    "main_city": "San Jose",
+    "main_street": "Park Avenue",
+    "main_street_number": "321",
+    "main_postcode": "95113",
+    "main_latitude": 37.330831200000006,
+    "main_longitude": -121.8934537440428,
+    "locations": [
+        {
+            "country_code": "US",
+            "country": "United States",
+            "region": "California",
+            "city": "San Jose",
+            "postcode": "95113",
+            "street": "Park Avenue",
+            "street_number": "321",
+            "latitude": 37.330831200000006,
+            "longitude": -121.8934537440428
+        }
+    ],
+    "num_locations": 1,
+    "company_type": "Public",
+    "year_founded": 1982,
+    "employee_count": 25988,
+    "estimated_revenue": null,
+    "short_description": "Adobe Inc., originally called Adobe Systems Incorporated, is an American multinational computer software company incorporated in Delaware and headquartered in San Jose, California.",
+    "long_description": "Adobe Inc., originally called Adobe Systems Incorporated, is an American multinational computer software company incorporated in Delaware and headquartered in San Jose, California. It has historically specialized in software for the creation and publication of a wide range of content, including graphics, photography, illustration, animation, multimedia/video, motion pictures, and print. Its flagship products include Adobe Photoshop image editing software; Adobe Illustrator vector-based illustration software; Adobe Acrobat Reader and the Portable Document Format (PDF); and a host of tools primarily for audio-visual content creation, editing and publishing. Adobe offered a bundled solution of its products named Adobe Creative Suite, which evolved into a subscription software as a service (SaaS) offering named Adobe Creative Cloud. The company also expanded into digital marketing software and in 2021 was considered one of the top global leaders in Customer Experience Management (CXM). Adobe was founded in December 1982 by John Warnock and Charles Geschke, who established the company after leaving Xerox PARC to develop and sell the PostScript page description language. In 1985, Apple Computer licensed PostScript for use in its LaserWriter printers, which helped spark the desktop publishing revolution. Adobe later developed animation and multimedia through its acquisition of Macromedia, from which it acquired Adobe Flash; video editing and compositing software with Adobe Premiere, later known as Adobe Premiere Pro; low-code web development with Adobe Muse; and a suite of software for digital marketing management.",
+    "business_tags": [
+        "Software As A Service",
+        "Computer Software",
+        "Bundled Solutions"
+    ],
+    "main_business_category": "Tech Companies",
+    "main_industry": "IT",
+    "main_sector": null,
+    "primary_phone": null,
+    "phone_numbers": null,
+    "primary_email": null,
+    "emails": null,
+    "other_emails": null,
+    "website_url": "https://www.adobe.com",
+    "website_domain": "adobe.com",
+    "website_tld": "com",
+    "website_language_code": null,
+    "facebook_url": "https://facebook.com/adobe",
+    "twitter_url": "https://twitter.com/adobemktgcloud",
+    "instagram_url": "https://instagram.com/adobe",
+    "linkedin_url": "https://linkedin.com/company/adobe",
+    "ios_app_url": null,
+    "android_app_url": null,
+    "youtube_url": null,
+    "cms": "adobe experience manager, adobe experience cloud, contentful",
+    "alexa_rank": 44,
+    "technologies": [
+        "analytics: adobe analytics",
+        "analytics: soasta mpulse",
+        "cms: adobe experience manager",
+        "javascript frameworks: react",
+        "cdn: akamai",
+        "miscellaneous: onetrust",
+        "cache tools: varnish",
+        "retargeting: adobe audience manager",
+        "web frameworks: express",
+        "miscellaneous: optanon",
+        "cms: adobe experience cloud",
+        "font scripts: typekit",
+        "web servers: express",
+        "segmentation: adobe audience manager",
+        "cookie compliance: onetrust",
+        "tag managers: adobe dynamic tag management",
+        "web servers: apache",
+        "seo tool: facebook friendly",
+        "programming languages: node.js",
+        "document management systems: adobe audience manager",
+        "a/b testing: omniture adobe test and target",
+        "analytics: adobe audience manager",
+        "seo tool: twitter friendly",
+        "security: akamai bot manager",
+        "programming languages: java",
+        "web servers: openresty",
+        "paas: amazon web services",
+        "video players: youtube",
+        "reverse proxy: nginx",
+        "web servers: nginx",
+        "cdn: amazon cloudfront",
+        "analytics: facebook custom audiences",
+        "cms: contentful",
+        "analytics: quantcast",
+        "widgets: facebook",
+        "retargeting: facebook custom audiences",
+        "captchas: recaptcha",
+        "miscellaneous: amazon s3",
+        "retargeting: facebook",
+        "advertising: microsoft advertising",
+        "javascript libraries: polyfill",
+        "analytics: google analytics",
+        "web frameworks: microsoft asp.net",
+        "operating systems: windows server",
+        "web servers: iis",
+        "issue trackers: new relic",
+        "customer data platform: adobe experience platform identity service",
+        "web frameworks: bootstrap - 6",
+        "saas: adobe experience platform identity service",
+        "javascript libraries: jquery",
+        "dev tools: new relic",
+        "ui frameworks: bootstrap - 6",
+        "analytics: new relic",
+        "javascript frameworks: jquery",
+        "analytics: akamai mpulse",
+        "rum: akamai mpulse",
+        "rum: boomerang",
+        "analytics: sitecatalyst",
+        "font scripts: font awesome",
+        "font scripts: typekit - 1.20.0",
+        "javascript frameworks: react - 15.7.0",
+        "miscellaneous: swiper slider",
+        "font scripts: typekit - 1.21.0",
+        "reverse proxy: nginx - 1.19.1",
+        "javascript libraries: jquery migrate - 1.4.1",
+        "javascript libraries: jquery - 1.12.4",
+        "javascript frameworks: jquery - 1.12.4",
+        "programming languages: php",
+        "web servers: nginx - 1.19.1",
+        "javascript frameworks: jquery migrate - 1.4.1",
+        "ui frameworks: bootstrap",
+        "web frameworks: bootstrap",
+        "javascript libraries: mobx"
+    ],
+    "naics_2022": {
+        "primary": {
+            "code": "541511",
+            "label": "Custom Computer Programming Services"
+        },
+        "secondary": [
+            {
+                "code": "513210",
+                "label": "Software Publishers"
+            }
+        ]
+    },
+    "nace_rev2": [
+        {
+            "code": "62.01",
+            "label": "Computer programming activities"
+        }
+    ],
+    "ncci_codes_28_1": [
+        "8810"
+    ],
+    "sic": [
+        {
+            "code": "7371",
+            "label": "Computer Programming Services"
+        }
+    ],
+    "isic_v4": [
+        {
+            "code": "6201",
+            "label": "Computer programming activities"
+        }
+    ],
+    "sics_industry": null,
+    "sics_sector": null,
+    "sics_subsector": null,
+    "ibc_insurance": [
+        {
+            "code": "731302",
+            "label": "Graphic Design (No Web Design)"
+        },
+        {
+            "code": "891801",
+            "label": "Software Developers (Pre-Packaged)"
+        },
+        {
+            "code": "891802",
+            "label": "Software Developers (Custom)"
+        },
+        {
+            "code": "641411",
+            "label": "Information Technology Consultants"
+        },
+        {
+            "code": "729201",
+            "label": "Photographers' Studios (Incl Away from Premises)"
+        }
+    ],
+    "created_at": "2022-02-03T10:53:38.000Z",
+    "last_updated_at": "2023-04-13T22:37:27.802Z"
+}

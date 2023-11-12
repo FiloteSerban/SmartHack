@@ -1,0 +1,10 @@
+{
+  "Nume" : "Petrom",
+  "WebSite" : "petrom.ro",
+  "Lista" : [
+    {"Nume" : "BMW",
+    "WebSite" : "bmw.com"},
+    {"Nume" : "Renault",
+    "WebSite" : "renault.ro"}
+  ]
+}

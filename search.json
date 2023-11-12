@@ -1,0 +1,2266 @@
+{
+    "pagination": {
+        "next": "cbd6a93a0b78a0e5581755c370d388"
+    },
+    "count": 12120471,
+    "result": [
+        {
+            "soleadify_id": "12885310-93e5-11eb-b997-8dd98d09cf25",
+            "company_name": "Home Credit",
+            "company_legal_names": [
+                "Home Credit B.V",
+                "Home Credit Group B.V.",
+                "Home Credit N.V."
+            ],
+            "company_commercial_names": [
+                "Home Credit International",
+                "Home Credit",
+                "Home Credit Group"
+            ],
+            "main_country_code": "NL",
+            "main_country": "Netherlands",
+            "main_region": "North Holland",
+            "main_city": "Amsterdam",
+            "main_street": "Strawinskylaan",
+            "main_street_number": "933",
+            "main_postcode": "1077 XX",
+            "main_latitude": 52.3402769,
+            "main_longitude": 4.874504,
+            "locations": [
+                {
+                    "country_code": "CZ",
+                    "country": "Czechia",
+                    "region": "Prague",
+                    "city": "Prague",
+                    "postcode": "160 41",
+                    "street": "Evropská",
+                    "street_number": "2690/17",
+                    "latitude": 50.1004518,
+                    "longitude": 14.3943241
+                },
+                {
+                    "country_code": "CZ",
+                    "country": "Czechia",
+                    "region": "Southeast",
+                    "city": "Brno",
+                    "postcode": "639 00",
+                    "street": "Holandská",
+                    "street_number": "10",
+                    "latitude": 49.1819475,
+                    "longitude": 16.6058343
+                },
+                {
+                    "country_code": "NL",
+                    "country": "Netherlands",
+                    "region": "North Holland",
+                    "city": "Amsterdam",
+                    "postcode": "1077 XX",
+                    "street": "Strawinskylaan",
+                    "street_number": "933",
+                    "latitude": 52.3402769,
+                    "longitude": 4.874504
+                }
+            ],
+            "num_locations": 3,
+            "company_type": "Private",
+            "year_founded": 1997,
+            "employee_count": 116700,
+            "estimated_revenue": 4800000000,
+            "short_description": "Home Credit B. V. is an international non-bank financial institution founded in 1997 in the Czech Republic and headquartered in Netherlands.",
+            "long_description": "Home Credit B.V. is an international non-bank financial institution founded in 1997 in the Czech Republic and headquartered in Netherlands. The company operates in 9 countries and focuses on installment lending primarily to people with little or no credit history. As of 30 June 2020 the Group has cumulatively served over 135.4 million customers. Major shareholder of the Group is PPF, a privately held international investment group whose founder and major beneficiary was Petr Kellner with 88.62% stake. The Home Credit loan can be obtained from throughout 342.7 thousands partnering retail shops and shopping malls in ten world markets as well as at the Home Credit's own online marketplaces (Russia, China, Philippines and Vietnam). Home Credit is also presented online in its own mobile application or in a third-party online stores. In selected markets you can pay with a „HC Pay“, a QR code-based revolving credit or with Home Credit credit or shopping cards. Home Credit finances both the purchase of consumer goods through a cash-less loan transaction or other commodities, such as language courses, travel etc. through a cash loans. The loans are always issued in domestic currency of the market in which the brand operates.",
+            "business_tags": [
+                "Financial Services",
+                "Consumer Financing",
+                "Responsible Lending",
+                "Health & Life Insurance",
+                "Value Added Services",
+                "Financial Products",
+                "Auto Financing",
+                "Consumer Lending",
+                "Growth Enablement",
+                "Financial Goals"
+            ],
+            "main_business_category": "Loans & Financing",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+420224174777",
+            "phone_numbers": [
+                "+31208813120",
+                "+420224174777"
+            ],
+            "primary_email": "toby.doman@homecredit.asia",
+            "emails": null,
+            "other_emails": null,
+            "website_url": "homecredit.net",
+            "website_domain": "homecredit.net",
+            "website_tld": "net",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/homecreditcz/",
+            "twitter_url": "https://twitter.com/homecreditid_",
+            "instagram_url": "https://instagram.com/home_credit_in",
+            "linkedin_url": "https://www.linkedin.com/company/home-credit-international",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": "https://www.youtube.com/channel/UC_22VMGCke0U8TB6ZK3h0ow",
+            "cms": null,
+            "alexa_rank": 488334,
+            "technologies": [
+                "javascript frameworks: jquery - 1.8.3",
+                "javascript frameworks: jquery ui - 1.10.0",
+                "web frameworks: microsoft asp.net",
+                "operating systems: windows server",
+                "seo tool: facebook friendly",
+                "web servers: iis",
+                "tag managers: google tag manager",
+                "javascript libraries: jquery - 1.8.3",
+                "analytics: pingdom rum",
+                "javascript libraries: jquery ui - 1.10.0"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "522291",
+                    "label": "Consumer Lending"
+                },
+                "secondary": [
+                    {
+                        "code": "522220",
+                        "label": "Sales Financing"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.92",
+                    "label": "Other credit granting"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8810"
+            ],
+            "sic": [
+                {
+                    "code": "6141",
+                    "label": "Personal Credit Institutions (except installment sales finance, industrial nondeposit banks, and credit card issuing)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6492",
+                    "label": "Other credit granting"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CF",
+                "label": "Consumer Finance"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "399101",
+                    "label": "Building Owner - Multiple Occupancy - Mixed-Use Commercial"
+                },
+                {
+                    "code": "529101",
+                    "label": "Building Owner - Multiple Occupancy - Retail (Not Enclosed Mall)"
+                },
+                {
+                    "code": "641301",
+                    "label": "Mortgage Brokers / Loan Correspondents"
+                },
+                {
+                    "code": "614001",
+                    "label": "Finance Companies (Personal Credit Institutions)"
+                },
+                {
+                    "code": "612001",
+                    "label": "Credit Unions / Caisses Populaires / Savings & Loan"
+                }
+            ],
+            "created_at": "2019-11-24T11:52:51.000Z",
+            "last_updated_at": "2023-09-06T19:15:17.233Z"
+        },
+        {
+            "soleadify_id": "06e77cc0-93e5-11eb-be5a-4f810ab55f2e",
+            "company_name": "Allianz",
+            "company_legal_names": [
+                "Allianz Technology of America Inc.",
+                "Allianz Holding eins GmbH",
+                "Allianz Global Risks Us Insurance Company"
+            ],
+            "company_commercial_names": [
+                "ALLIANZ TECHNOLOGY SE SINGAPORE BRANCH",
+                "Allianz Group",
+                "Allianz Global Risks",
+                "Allianz Nederland"
+            ],
+            "main_country_code": "DE",
+            "main_country": "Germany",
+            "main_region": "Bavaria",
+            "main_city": "Munich",
+            "main_street": "Königinstraße",
+            "main_street_number": "28",
+            "main_postcode": "80802",
+            "main_latitude": 48.1545295715332,
+            "main_longitude": 11.588561058044434,
+            "locations": [
+                {
+                    "country_code": "IN",
+                    "country": "India",
+                    "region": "Maharashtra",
+                    "city": "Pune",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Ile-de-France",
+                    "city": "Saint-Ouen-sur-Seine",
+                    "postcode": "93400",
+                    "street": "Boulevard Victor Hugo",
+                    "street_number": "151",
+                    "latitude": 48.9045513,
+                    "longitude": 2.32215
+                },
+                {
+                    "country_code": "TR",
+                    "country": "Turkey",
+                    "region": "Marmara Region",
+                    "city": "Nilüfer",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Georgia",
+                    "city": "Atlanta",
+                    "postcode": "30326",
+                    "street": "Peachtree Road Northeast",
+                    "street_number": "3399",
+                    "latitude": 33.846115999999995,
+                    "longitude": -84.35986400818138
+                },
+                {
+                    "country_code": "MA",
+                    "country": "Morocco",
+                    "region": "Drâa-Tafilalet",
+                    "city": "Caïdat de Ferkla",
+                    "postcode": "52600",
+                    "street": "RN10",
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "PT",
+                    "country": "Portugal",
+                    "region": "Faro",
+                    "city": "Loulé (São Sebastião)",
+                    "postcode": "8199-752",
+                    "street": "Rua Jose Antonio Madeira",
+                    "street_number": "loja 1",
+                    "latitude": 37.141292572021484,
+                    "longitude": -8.025813102722168
+                },
+                {
+                    "country_code": "DE",
+                    "country": "Germany",
+                    "region": "Bavaria",
+                    "city": "Munich",
+                    "postcode": "81671",
+                    "street": "August-Everding-Straße",
+                    "street_number": "20",
+                    "latitude": 48.125396728515625,
+                    "longitude": 11.610823631286621
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "New York",
+                    "city": "New York",
+                    "postcode": "10165",
+                    "street": "East 42nd Street",
+                    "street_number": "60",
+                    "latitude": 40.7523028,
+                    "longitude": -73.9784305
+                },
+                {
+                    "country_code": "DE",
+                    "country": "Germany",
+                    "region": "Hesse",
+                    "city": "Frankfurt",
+                    "postcode": "60596",
+                    "street": "Theodor-Stern-Kai",
+                    "street_number": "1",
+                    "latitude": 50.098876953125,
+                    "longitude": 8.667074203491211
+                },
+                {
+                    "country_code": "TR",
+                    "country": "Turkey",
+                    "region": "Marmara Region",
+                    "city": "Beşiktaş",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            ],
+            "num_locations": 64,
+            "company_type": "Public",
+            "year_founded": 1890,
+            "employee_count": 155411,
+            "estimated_revenue": 160700000000,
+            "short_description": "Allianz is a German multinational financial services company headquartered in Munich, Germany.",
+            "long_description": "Allianz is a German multinational financial services company headquartered in Munich, Germany. Its core businesses are insurance and asset management. The company is one of the world's largest insurers and financial services groups. The company is a component of the Euro Stoxx 50 stock market index.",
+            "business_tags": [
+                "Insurance And Asset Management",
+                "Economic Research",
+                "Financial Service Providers",
+                "Investor Relations Overview",
+                "Climate Changes",
+                "Capital Markets Day",
+                "Strategy And Governance",
+                "Renewable Energy",
+                "Insurance Company",
+                "Sustainability Reporting"
+            ],
+            "main_business_category": "Insurance - Agents, Carriers & Brokers",
+            "main_industry": "Finance",
+            "main_sector": null,
+            "primary_phone": "+4989380012203",
+            "phone_numbers": [
+                "+498938003324",
+                "+4989380017975",
+                "+13037081916",
+                "+551130712639",
+                "+17324941529",
+                "+498938003892",
+                "+498938003963",
+                "+498938007151",
+                "+14169154247",
+                "+14047607800",
+                "+4989380018284",
+                "+498938007555",
+                "+4989380012203",
+                "+33184604321",
+                "+12129380670",
+                "+31104541911",
+                "+13122243300",
+                "+498938007663",
+                "+4989380016891",
+                "+6562978002",
+                "+498938004124",
+                "+4989380017224",
+                "+12142544002",
+                "+966138988910",
+                "+4989380013160",
+                "+35312422300",
+                "+43590090"
+            ],
+            "primary_email": "corporate.responsibility@allianz.com",
+            "emails": [
+                "corporate.responsibility@allianz.com",
+                "investor.relations@allianz.com",
+                "arne.holzhausen@allianz.com"
+            ],
+            "other_emails": [
+                "ludovic.subran@allianz.com",
+                "pablo.espinosa-uriel@allianz.com",
+                "impressum-allianzse@allianz.com",
+                "andreas.jobst@allianz.com",
+                "michaela.grimm@allianz.com",
+                "lorenz.weimann@allianz.com",
+                "maddalena.martini@allianz.com",
+                "jordi.basco_carrera@allianz.com",
+                "bjoern.griesbach@allianz.com",
+                "patricia.pelayo-romero@allianz.com",
+                "goodprivacy@allianz.com",
+                "markus.zimmer@allianz.com"
+            ],
+            "website_url": "http://www.allianz.com/",
+            "website_domain": "allianz.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/allianz/",
+            "twitter_url": "https://twitter.com/Allianz",
+            "instagram_url": "https://www.instagram.com/teamallianz/",
+            "linkedin_url": "https://www.linkedin.com/company/allianz",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": "https://www.youtube.com/channel/UCeGmH7XrpzCjlrrxoAVnWPA",
+            "cms": "adobe experience manager",
+            "alexa_rank": 89934,
+            "technologies": [
+                "cms: adobe experience manager",
+                "miscellaneous: onetrust",
+                "miscellaneous: optanon",
+                "cookie compliance: onetrust",
+                "tag managers: adobe dynamic tag management",
+                "web servers: apache",
+                "seo tool: facebook friendly",
+                "seo tool: twitter friendly",
+                "programming languages: java"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "524298",
+                    "label": "All Other Insurance Related Activities"
+                },
+                "secondary": [
+                    {
+                        "code": "524130",
+                        "label": "Reinsurance Carriers"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "66.29",
+                    "label": "Other activities auxiliary to insurance and pension funding"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8720",
+                "8723"
+            ],
+            "sic": [
+                {
+                    "code": "6411",
+                    "label": "Insurance Agents, Brokers, and Service (except processors, agents and brokers, and claims adjusters)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6629",
+                    "label": "Other activities auxiliary to insurance and pension funding"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-IN",
+                "label": "Insurance"
+            },
+            "sics_subsector": {
+                "code": "FN.3",
+                "label": "Insurance"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "631001",
+                    "label": "Insurance Companies"
+                },
+                {
+                    "code": "399101",
+                    "label": "Building Owner - Multiple Occupancy - Mixed-Use Commercial"
+                },
+                {
+                    "code": "641201",
+                    "label": "Insurance Agents / Brokers / Adjusters"
+                },
+                {
+                    "code": "891702",
+                    "label": "Inspection Services - Not Otherwise Classified"
+                },
+                {
+                    "code": "891701",
+                    "label": "Insurance Inspection Services"
+                }
+            ],
+            "created_at": "2019-11-24T00:00:41.000Z",
+            "last_updated_at": "2023-09-07T00:42:11.407Z"
+        },
+        {
+            "soleadify_id": "239abf30-93e5-11eb-b89f-536884b3e7dd",
+            "company_name": "Itaúsa",
+            "company_legal_names": [
+                "ITAUSA S.A.",
+                "Itaúsa Investimentos Itaú S.A."
+            ],
+            "company_commercial_names": [
+                "Itaúsa"
+            ],
+            "main_country_code": "BR",
+            "main_country": "Brazil",
+            "main_region": "São Paulo",
+            "main_city": "São Paulo",
+            "main_street": "Avenida Paulista",
+            "main_street_number": "1938",
+            "main_postcode": "01310-200",
+            "main_latitude": -23.5592043,
+            "main_longitude": -46.6587407,
+            "locations": [
+                {
+                    "country_code": "BR",
+                    "country": "Brazil",
+                    "region": "São Paulo",
+                    "city": "Nazaré Paulista",
+                    "postcode": "01310-200",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "BR",
+                    "country": "Brazil",
+                    "region": "São Paulo",
+                    "city": "São Paulo",
+                    "postcode": "01310-200",
+                    "street": "Avenida Paulista",
+                    "street_number": "1938",
+                    "latitude": -23.5592043,
+                    "longitude": -46.6587407
+                }
+            ],
+            "num_locations": 2,
+            "company_type": "Public",
+            "year_founded": 1966,
+            "employee_count": 126800,
+            "estimated_revenue": 6300000000,
+            "short_description": "Itaúsa is a Brazilian multinational conglomerate holding company headquartered in São Paulo, Brazil.",
+            "long_description": "Itaúsa is a Brazilian multinational conglomerate holding company headquartered in São Paulo, Brazil. It is one of the largest private conglomerates in Brazil, and one of the largest in the world. The company controls several companies active in areas such as the financial and real estate sectors; industries including wood panels, pottery and metal; health; chemicals; and fashion. The main companies that Itaúsa controls are Itaú Unibanco, Duratex and Alpargatas S.A.. The control of the company rests with the Setubal and Villela families along with the Camargo family as minority holder.",
+            "business_tags": [
+                "Equity Capital Markets",
+                "Investment Holding Company",
+                "Charts And Quotes",
+                "By-Laws & Policies",
+                "Investor Tools",
+                "Corporate Sustainability",
+                "Footwear & Apparel",
+                "Environmental Liability",
+                "Financial Services",
+                "Environmental Sustainability"
+            ],
+            "main_business_category": "Investment Firms & Venture Capital",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+551135434782",
+            "phone_numbers": [
+                "+558007219574",
+                "+552132509200",
+                "+551135434177",
+                "+551135434782",
+                "+551135434432",
+                "+551130039285",
+                "+551131797530",
+                "+5530039285",
+                "+551138477322",
+                "+551130485900",
+                "+558007209285"
+            ],
+            "primary_email": "ri@itausa.com.br",
+            "emails": null,
+            "other_emails": null,
+            "website_url": "https://www.itausa.com.br/",
+            "website_domain": "itausa.com.br",
+            "website_tld": "com.br",
+            "website_language_code": "pt",
+            "facebook_url": null,
+            "twitter_url": "https://twitter.com/itausaholding",
+            "instagram_url": "https://www.instagram.com/itausaholding/",
+            "linkedin_url": "https://www.linkedin.com/company/itausa",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": "https://www.youtube.com/itausaholding",
+            "cms": null,
+            "alexa_rank": null,
+            "technologies": null,
+            "naics_2022": {
+                "primary": {
+                    "code": "523910",
+                    "label": "Miscellaneous Intermediation"
+                },
+                "secondary": null
+            },
+            "nace_rev2": [
+                {
+                    "code": "68.1",
+                    "label": "Buying and selling of own real estate"
+                },
+                {
+                    "code": "68.2",
+                    "label": "Rental and operating of own or leased real estate"
+                },
+                {
+                    "code": "64.99",
+                    "label": "Other financial service activities, except insurance and pension funding n.e.c."
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8742"
+            ],
+            "sic": [
+                {
+                    "code": "6153",
+                    "label": "Short-Term Business Credit Institutions, Except Agricultural (except credit card service and issuing, short term inventory credit, purchasing accounts receivable, and business sales finance)"
+                },
+                {
+                    "code": "6792",
+                    "label": "Oil Royalty Traders (investing on own account)"
+                },
+                {
+                    "code": "6799",
+                    "label": "Investors, NEC (venture capital companies, investment clubs, and speculators for own account)"
+                },
+                {
+                    "code": "6211",
+                    "label": "Security Brokers, Dealers, and Flotation Companies (except security dealers and underwriters, and security, oil lease, and gas lease brokers)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6810",
+                    "label": "Real estate activities with own or leased property"
+                },
+                {
+                    "code": "6499",
+                    "label": "Other financial service activities, except insurance and pension funding activities, n.e.c."
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-AC",
+                "label": "Asset Management & Custody Activities"
+            },
+            "sics_subsector": {
+                "code": "FN.1",
+                "label": "Capital Markets"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": null,
+            "created_at": "2019-11-24T02:27:08.000Z",
+            "last_updated_at": "2023-09-01T13:10:09.000Z"
+        },
+        {
+            "soleadify_id": "8cc66190-93e4-11eb-b5f6-816dd10ac7b0",
+            "company_name": "SMBC Group",
+            "company_legal_names": [
+                "SMBC SOFOM S.A.P.I.",
+                "Banco Sumitomo Mitsui Brasileiro S.A.",
+                "Sumitomo Mitsui Banking Corporation",
+                "Sumitomo Mitsui Financial Group Inc."
+            ],
+            "company_commercial_names": [
+                "SMBC Group",
+                "SMBC"
+            ],
+            "main_country_code": "JP",
+            "main_country": "Japan",
+            "main_region": null,
+            "main_city": "Chiyoda",
+            "main_street": null,
+            "main_street_number": null,
+            "main_postcode": null,
+            "main_latitude": null,
+            "main_longitude": null,
+            "locations": [
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "California",
+                    "city": "Menlo Park",
+                    "postcode": "94025",
+                    "street": "Jefferson Drive",
+                    "street_number": "101",
+                    "latitude": 37.483225399999995,
+                    "longitude": -122.17439104144215
+                },
+                {
+                    "country_code": "PE",
+                    "country": "Peru",
+                    "region": "Lima",
+                    "city": "Lima Metropolitan Area",
+                    "postcode": "15000",
+                    "street": "Avenida Enrique Canaval y Moreyra",
+                    "street_number": "380",
+                    "latitude": -12.0975883,
+                    "longitude": -77.02219259933072
+                },
+                {
+                    "country_code": "CA",
+                    "country": "Canada",
+                    "region": "Ontario",
+                    "city": "Old Toronto",
+                    "postcode": "M5K 1H6",
+                    "street": "Bay Street",
+                    "street_number": "222",
+                    "latitude": 43.64771486666667,
+                    "longitude": -79.38000406666667
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "New York",
+                    "city": "New York",
+                    "postcode": "10172",
+                    "street": "Park Avenue",
+                    "street_number": "277",
+                    "latitude": 40.75526428222656,
+                    "longitude": -73.97420501708984
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Illinois",
+                    "city": "Chicago",
+                    "postcode": "60606",
+                    "street": "South Riverside Plaza",
+                    "street_number": "300",
+                    "latitude": 41.87739045,
+                    "longitude": -87.63845832505473
+                },
+                {
+                    "country_code": "MX",
+                    "country": "Mexico",
+                    "region": "Guanajuato",
+                    "city": "Silao",
+                    "postcode": "36119",
+                    "street": "Calle Sierra Interior",
+                    "street_number": "102",
+                    "latitude": 20.9650932,
+                    "longitude": -101.4158353
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "New York",
+                    "city": "City of White Plains",
+                    "postcode": "10601",
+                    "street": "North Lexington Avenue",
+                    "street_number": "1",
+                    "latitude": 41.03223,
+                    "longitude": -73.77335391027701
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Texas",
+                    "city": "Houston",
+                    "postcode": "77002",
+                    "street": "Smith Street",
+                    "street_number": "1200",
+                    "latitude": 29.7571547,
+                    "longitude": -95.371054
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Texas",
+                    "city": "Dallas",
+                    "postcode": "75254",
+                    "street": "Dallas Parkway",
+                    "street_number": "14241",
+                    "latitude": 32.943366287391505,
+                    "longitude": -96.82189490037892
+                },
+                {
+                    "country_code": "CL",
+                    "country": "Chile",
+                    "region": "Santiago Metropolitan Region",
+                    "city": "Provincia de Santiago",
+                    "postcode": "7550089",
+                    "street": "Isidora Goyenechea",
+                    "street_number": "3000",
+                    "latitude": -33.4140455,
+                    "longitude": -70.5980431
+                }
+            ],
+            "num_locations": 463,
+            "company_type": "Private",
+            "year_founded": 1876,
+            "employee_count": 103000,
+            "estimated_revenue": 40800000,
+            "short_description": "Backed by research, we know the markets—from regulatory developments to investment trends—and use that knowledge to create unique opportunities for our clients, focusing on your growth, not ours, to ensure we thrive together.",
+            "long_description": "Sumitomo Mitsui Banking Corporation Group (SMBC Group; 株式会社三井住友銀行) is a Japanese multinational banking and financial services institution headquartered in Yurakucho, Chiyoda, Tokyo, Japan. The group operates in retail, corporate, and investment banking segment worldwide. It provides financial products and services to a wide range of clients, including individuals, small and medium-sized enterprises, large corporations, financial institutions and public sector entities. Since 2011, it has been included into the Financial Stability Board's list of global systemically important banks. SMBC group operates in over 40 countries and maintains a presence in all International Financial Centres as the 12th biggest bank in the world by total assets. It is one of the largest global financial institutions in project finance space by total loan value. As of May 2020, SMBC group is listed as 80th largest public company in the world according to Forbes ranking.",
+            "business_tags": [
+                "Corporate And Investment Banking",
+                "Capital Markets",
+                "Leveraged Finance",
+                "Treasury Services",
+                "Market Commentaries",
+                "Equity Capital Markets",
+                "Debt Capital Markets",
+                "Advisory Solutions",
+                "Asset Based Lending",
+                "Sustainable Financing"
+            ],
+            "main_business_category": "Banks & ATMs",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+12122244000",
+            "phone_numbers": [
+                "+12028381500",
+                "+14163684766",
+                "+14156163000",
+                "+19729427000",
+                "+17132773500",
+                "+18442019810",
+                "+12134527800",
+                "+19146884100",
+                "+15716197200",
+                "+14163673565",
+                "+19802213200",
+                "+13127963668",
+                "+525526904299",
+                "+12127565593",
+                "+12122567216",
+                "+525596888483",
+                "+12122567240",
+                "+12122244000",
+                "+12134896200"
+            ],
+            "primary_email": "drew.benson@smbcgroup.com",
+            "emails": null,
+            "other_emails": null,
+            "website_url": "https://www.smbcgroup.com/",
+            "website_domain": "smbcgroup.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://facebook.com/pages/Sumitomo-Mitsui-Banking-Corporation/395168773867940",
+            "twitter_url": null,
+            "instagram_url": null,
+            "linkedin_url": "https://www.linkedin.com/company/sumitomo-mitsui-banking-corporation",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "kentico cms",
+            "alexa_rank": null,
+            "technologies": [
+                "web servers: iis - 10.0",
+                "ui frameworks: bootstrap",
+                "cms: kentico cms",
+                "web frameworks: bootstrap",
+                "javascript libraries: slick",
+                "web frameworks: microsoft asp.net - 4.0.30319",
+                "javascript libraries: jquery - 3.3.1",
+                "security: imperva",
+                "operating systems: windows server",
+                "javascript frameworks: jquery - 3.3.1",
+                "javascript frameworks: slick"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "522110",
+                    "label": "Commercial Banking"
+                },
+                "secondary": [
+                    {
+                        "code": "523150",
+                        "label": "Investment Banking and Securities Intermediation"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.19",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8855"
+            ],
+            "sic": [
+                {
+                    "code": "6029",
+                    "label": "Commercial Banks, NEC"
+                },
+                {
+                    "code": "6021",
+                    "label": "National Commercial Banks (banking)"
+                },
+                {
+                    "code": "6022",
+                    "label": "State Commercial Banks (commercial banking)"
+                },
+                {
+                    "code": "6081",
+                    "label": "Branches and Agencies of Foreign Banks (branches)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6419",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CB",
+                "label": "Commercial Banks"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "641401",
+                    "label": "Management Consultants"
+                },
+                {
+                    "code": "641101",
+                    "label": "Accountants / Auditors"
+                },
+                {
+                    "code": "641501",
+                    "label": "Financial Planners / Advisors"
+                },
+                {
+                    "code": "641403",
+                    "label": "Operations Consultants"
+                },
+                {
+                    "code": "740802",
+                    "label": "Bookkeeping Services"
+                }
+            ],
+            "created_at": "2019-11-24T02:13:29.000Z",
+            "last_updated_at": "2023-09-03T15:22:52.000Z"
+        },
+        {
+            "soleadify_id": "354e2642-93e5-11eb-86dd-ffbd1b53140e",
+            "company_name": "Sumitomo Mitsui Banking Corporation",
+            "company_legal_names": [
+                "Sumitomo Mitsui Financial Group Inc.",
+                "Sumitomo Mitsui Banking Corporation"
+            ],
+            "company_commercial_names": [
+                "SMBCダイレクト",
+                "Daiwa Securities Smbc Stockbroking",
+                "SMBCグループ",
+                "SMBC"
+            ],
+            "main_country_code": "JP",
+            "main_country": "Japan",
+            "main_region": null,
+            "main_city": "Chiyoda",
+            "main_street": null,
+            "main_street_number": null,
+            "main_postcode": null,
+            "main_latitude": null,
+            "main_longitude": null,
+            "locations": [
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Chiyoda",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            ],
+            "num_locations": 463,
+            "company_type": "Private",
+            "year_founded": 1876,
+            "employee_count": 103000,
+            "estimated_revenue": 42000000,
+            "short_description": "Join our transformation journey and experience your growth together with usSumitomo Mitsui Banking Corporation (SMBC) is a leading financial institution in Japan with over 300 years of experience.",
+            "long_description": "Join our transformation journey and experience your growth together with us\nSumitomo Mitsui Banking Corporation (SMBC) is a leading financial institution in Japan with over 300 years of experience. We have one of the most extensive domestic and international branch networks among Japanese banks, and we are an organization known for our ability to rapidly roll out new strategies. SMBC also boasts a formidable lineup of Sumitomo Mitsui Financial Group (SMFG) companies. These strengths add up to powerful capabilities in our broad range of financial services. UEN: T03FC6366F",
+            "business_tags": [
+                "Financial Group"
+            ],
+            "main_business_category": "Banks & ATMs",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+61392801300",
+            "phone_numbers": [
+                "+81570017109",
+                "+81120816437",
+                "+81663394074",
+                "+81356383211",
+                "+61392801300",
+                "+81352523772"
+            ],
+            "primary_email": null,
+            "emails": null,
+            "other_emails": null,
+            "website_url": "https://www.smbc.co.jp/",
+            "website_domain": "smbc.co.jp",
+            "website_tld": "co.jp",
+            "website_language_code": "ja",
+            "facebook_url": "https://www.facebook.com/smbc.jp/",
+            "twitter_url": "https://twitter.com/smbc_midosuke",
+            "instagram_url": "https://www.instagram.com/smbc_official/",
+            "linkedin_url": "https://linkedin.com/company/smbc",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": null,
+            "alexa_rank": 2083,
+            "technologies": [
+                "analytics: google ads conversion tracking",
+                "web frameworks: ruby on rails",
+                "javascript libraries: slick",
+                "web frameworks: java servlet",
+                "web frameworks: microsoft asp.net",
+                "programming languages: ruby",
+                "cdn: akamai",
+                "javascript libraries: jquery - 3.4.1",
+                "javascript libraries: modernizr",
+                "reverse proxy: nginx",
+                "javascript frameworks: jquery - 3.4.1",
+                "javascript frameworks: modernizr",
+                "operating systems: windows server",
+                "seo tool: facebook friendly",
+                "javascript frameworks: slick",
+                "web servers: iis",
+                "tag managers: google tag manager",
+                "issue trackers: trackjs",
+                "retargeting: google remarketing tag",
+                "web servers: nginx",
+                "analytics: google analytics",
+                "programming languages: java"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "522110",
+                    "label": "Commercial Banking"
+                },
+                "secondary": [
+                    {
+                        "code": "522130",
+                        "label": "Credit Unions"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.19",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8855"
+            ],
+            "sic": [
+                {
+                    "code": "6029",
+                    "label": "Commercial Banks, NEC"
+                },
+                {
+                    "code": "6021",
+                    "label": "National Commercial Banks (banking)"
+                },
+                {
+                    "code": "6022",
+                    "label": "State Commercial Banks (commercial banking)"
+                },
+                {
+                    "code": "6081",
+                    "label": "Branches and Agencies of Foreign Banks (branches)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6419",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CB",
+                "label": "Commercial Banks"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": null,
+            "created_at": "2019-11-24T01:43:51.000Z",
+            "last_updated_at": "2023-09-06T20:59:05.989Z"
+        },
+        {
+            "soleadify_id": "9da95947-93e4-11eb-90d2-e3355a7e800b",
+            "company_name": "Punjab National Bank",
+            "company_legal_names": [
+                "Punjab National Bank Ltd."
+            ],
+            "company_commercial_names": [
+                "PNB",
+                "PNB India",
+                "Punjab National Bank"
+            ],
+            "main_country_code": "IN",
+            "main_country": "India",
+            "main_region": "Delhi",
+            "main_city": "New Delhi",
+            "main_street": null,
+            "main_street_number": null,
+            "main_postcode": null,
+            "main_latitude": null,
+            "main_longitude": null,
+            "locations": [
+                {
+                    "country_code": "IN",
+                    "country": "India",
+                    "region": "Delhi",
+                    "city": "Dwarka",
+                    "postcode": "110075",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "IN",
+                    "country": "India",
+                    "region": "Delhi",
+                    "city": "New Delhi",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            ],
+            "num_locations": 11809,
+            "company_type": "Public",
+            "year_founded": 1894,
+            "employee_count": 103144,
+            "estimated_revenue": 4500000000,
+            "short_description": "Punjab National Bank (abbreviated as PNB) is an Indian public sector bank headquartered in Delhi.",
+            "long_description": "Punjab National Bank (abbreviated as PNB) is an Indian public sector bank headquartered in Delhi. The bank was founded in May 1894 and is the second largest government-owned bank in India, both in terms of its business volumes and its network. The bank has over 180 million customers, 12,248 branches, and 13,000+ ATMs. PNB has a banking subsidiary in the UK (PNB International Bank, with seven branches in the UK), as well as branches in Hong Kong, Kowloon, Dubai, and Kabul. It has representative offices in Almaty (Kazakhstan), Dubai (United Arab Emirates), Shanghai (China), Oslo (Norway), and Sydney (Australia). In Bhutan, it owns 51% of Druk PNB Bank, which has five branches. In Nepal, PNB owns 20% of Everest Bank, which has 50 branches. PNB also owns 41.64% of JSC (SB) PNB Bank in Kazakhstan, which has four branches.",
+            "business_tags": [
+                "Merchant Banking",
+                "Internet Banking",
+                "Saving Accounts",
+                "Banking Service",
+                "Fixed Deposits",
+                "Corporation Bank",
+                "Personal Banking",
+                "Bills Payment",
+                "Corporate Internet",
+                "Personal Banking Services"
+            ],
+            "main_business_category": "Banks & ATMs",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+911123714562",
+            "phone_numbers": [
+                "+911473468678",
+                "+911128044907",
+                "+9118001805555",
+                "+911473468717",
+                "+911473468713",
+                "+911473468699",
+                "+911204616200",
+                "+911473468693",
+                "+911473468695",
+                "+9118002021",
+                "+911473468682",
+                "+911473468696",
+                "+9118003303333",
+                "+9118001800",
+                "+911202490000",
+                "+911126765200",
+                "+911473468744",
+                "+911202303090",
+                "+9118001802223",
+                "+911473468746",
+                "+911800111626",
+                "+919264092640",
+                "+911473468716",
+                "+9118001808888",
+                "+911123714562",
+                "+9118001802345",
+                "+911473468664",
+                "+911473387050",
+                "+911473468663",
+                "+911473468733",
+                "+911473468722",
+                "+911473468689",
+                "+9118001032222",
+                "+911473468667"
+            ],
+            "primary_email": "papl@pnb.co.in",
+            "emails": null,
+            "other_emails": null,
+            "website_url": "https://www.pnbindia.in/",
+            "website_domain": "pnbindia.in",
+            "website_tld": "in",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/pnbindia/",
+            "twitter_url": "https://twitter.com/pnbindia",
+            "instagram_url": "https://www.instagram.com/pnbindia/",
+            "linkedin_url": "http://www.linkedin.com/company/pnbindia",
+            "ios_app_url": null,
+            "android_app_url": "tps://play.google.com/store/apps/details?id=com.Version1&hl=en_",
+            "youtube_url": "https://www.youtube.com/pnbindia",
+            "cms": null,
+            "alexa_rank": 16202,
+            "technologies": [
+                "widgets: flexslider",
+                "web frameworks: microsoft asp.net",
+                "javascript libraries: jquery - 3.5.1",
+                "font scripts: font awesome",
+                "operating systems: windows server",
+                "web servers: iis",
+                "javascript frameworks: jquery - 3.5.1",
+                "analytics: google analytics"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "522110",
+                    "label": "Commercial Banking"
+                },
+                "secondary": [
+                    {
+                        "code": "522390",
+                        "label": "Other Activities Related to Credit Intermediation"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.19",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8855"
+            ],
+            "sic": [
+                {
+                    "code": "6029",
+                    "label": "Commercial Banks, NEC"
+                },
+                {
+                    "code": "6021",
+                    "label": "National Commercial Banks (banking)"
+                },
+                {
+                    "code": "6022",
+                    "label": "State Commercial Banks (commercial banking)"
+                },
+                {
+                    "code": "6081",
+                    "label": "Branches and Agencies of Foreign Banks (branches)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6419",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CB",
+                "label": "Commercial Banks"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": null,
+            "created_at": "2019-11-24T00:45:52.000Z",
+            "last_updated_at": "2023-07-08T00:20:06.000Z"
+        },
+        {
+            "soleadify_id": "14922cd0-93e5-11eb-a736-0f5b20ecb2f1",
+            "company_name": "Caisse des Dépôts et Consignations",
+            "company_legal_names": null,
+            "company_commercial_names": [
+                "Caisse des Dépôts et Consignations",
+                "Groupe Caisse des Depots",
+                "Caisse des Depots",
+                "Caisse des depots et consignations"
+            ],
+            "main_country_code": "FR",
+            "main_country": "France",
+            "main_region": "Ile-de-France",
+            "main_city": "Paris",
+            "main_street": "Rue De Lille",
+            "main_street_number": "56",
+            "main_postcode": "75007",
+            "main_latitude": 48.85907745361328,
+            "main_longitude": 2.3279976844787598,
+            "locations": [
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Ile-de-France",
+                    "city": "Paris",
+                    "postcode": "75013",
+                    "street": "Avenue Pierre Mendès France",
+                    "street_number": "72",
+                    "latitude": 48.84134292602539,
+                    "longitude": 2.3681814670562744
+                },
+                {
+                    "country_code": "BE",
+                    "country": "Belgium",
+                    "region": "Brussels-Capital",
+                    "city": "Auderghem",
+                    "postcode": "1160",
+                    "street": "Avenue Herrmann-Debroux",
+                    "street_number": "15A",
+                    "latitude": 50.812434800000005,
+                    "longitude": 4.430826482924694
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Borgoña-Franco Condado",
+                    "city": "Besanzón",
+                    "postcode": "25000",
+                    "street": "Rue Gabriel Plançon",
+                    "street_number": "4",
+                    "latitude": 47.234718322753906,
+                    "longitude": 6.01509952545166
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Provence-Alpes-Côte d'Azur",
+                    "city": "Nice",
+                    "postcode": "06200",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Pays de la Loire",
+                    "city": "Angers",
+                    "postcode": "49100",
+                    "street": "Allée François Mitterrand",
+                    "street_number": "26",
+                    "latitude": 47.47770309448242,
+                    "longitude": -0.5499691963195801
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Ile-de-France",
+                    "city": "Paris",
+                    "postcode": "75015",
+                    "street": "Rue de Lourmel",
+                    "street_number": "130",
+                    "latitude": 48.8416018,
+                    "longitude": 2.2849303
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Auvergne-Rhône-Alpes",
+                    "city": "Lyon",
+                    "postcode": "69003",
+                    "street": "Rue de la Villette",
+                    "street_number": "44",
+                    "latitude": 45.7603412,
+                    "longitude": 4.8615017
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Ile-de-France",
+                    "city": "Paris",
+                    "postcode": "75007",
+                    "street": "Rue de Lille",
+                    "street_number": "56",
+                    "latitude": 48.85907745361328,
+                    "longitude": 2.3279976844787598
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Nouvelle-Aquitaine",
+                    "city": "Burdeos",
+                    "postcode": "33800",
+                    "street": "Place des Citernes",
+                    "street_number": "6",
+                    "latitude": 44.82116295,
+                    "longitude": -0.5594394667645335
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Occitania",
+                    "city": "Tolosa",
+                    "postcode": "31240",
+                    "street": "Place François Mitterrand",
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            ],
+            "num_locations": 17,
+            "company_type": "Private",
+            "year_founded": 1816,
+            "employee_count": 127005,
+            "estimated_revenue": 8400000000,
+            "short_description": "La Caisse des dépôts et consignations est un investisseur de long terme et contribue, dans le respect de ses intérêts patrimoniaux, au développement des entreprises.",
+            "long_description": "The Caisse des dépôts et consignations (CDC; ) is a French public sector financial institution created in 1816, and part of the government institutions under the control of the Parliament. Often described as the \"investment arm\" of the French State, it is defined in the French Monetary and Financial Code as a \"public group serving the public interest\" and a \"long-term investor\". Since 2017, Éric Lombard has served as its CEO. As of 2021, it is considered the largest sovereign wealth fund in the world by total assets.",
+            "business_tags": [
+                "Asset Management",
+                "I.T. Support",
+                "Assets Under Management",
+                "Investment Managers",
+                "Finance & Business",
+                "Advice & Training",
+                "IT And Networking",
+                "Institutional Investor",
+                "Structural Services",
+                "Investment Property"
+            ],
+            "main_business_category": "Banks & ATMs",
+            "main_industry": "Finance",
+            "main_sector": null,
+            "primary_phone": "+33158500000",
+            "phone_numbers": [
+                "+33492293400",
+                "+33472114948",
+                "+33549603600",
+                "+33467064100",
+                "+33596728400",
+                "+33241052500",
+                "+33158500000",
+                "+33158505656",
+                "+33158504000",
+                "+33562736130",
+                "+33556114123",
+                "+33143558343"
+            ],
+            "primary_email": "service.presse@caissedesdepots.fr",
+            "emails": [
+                "dpo@caissedesdepots.fr",
+                "service.presse@caissedesdepots.fr"
+            ],
+            "other_emails": [
+                "concours@caissedesdepots.fr",
+                "mission.handicap@caissedesdepots.fr"
+            ],
+            "website_url": "http://www.caissedesdepots.fr/",
+            "website_domain": "caissedesdepots.fr",
+            "website_tld": "fr",
+            "website_language_code": "fr",
+            "facebook_url": "https://www.facebook.com/CaissedesDepots/",
+            "twitter_url": "https://twitter.com/caissedesdepots",
+            "instagram_url": "https://www.instagram.com/caissedesdepots/",
+            "linkedin_url": "https://fr.linkedin.com/company/groupe-caisse-des-dépôts",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": "https://www.youtube.com/playlist?list=PLJaCqw9yXkpe7ROoa3S02uka_axMHh4nA",
+            "cms": "drupal - 8",
+            "alexa_rank": 89481,
+            "technologies": [
+                "analytics: matomo analytics",
+                "web frameworks: bootstrap - 4.7.0",
+                "cms: drupal - 8",
+                "font scripts: google font api",
+                "analytics: piwik",
+                "video players: youtube",
+                "javascript libraries: modernizr",
+                "font scripts: font awesome - 4.7.0",
+                "javascript frameworks: modernizr",
+                "seo tool: facebook friendly",
+                "analytics: matomo",
+                "javascript libraries: jquery",
+                "widgets: owl carousel",
+                "seo tool: twitter friendly",
+                "ui frameworks: bootstrap - 4.7.0",
+                "programming languages: php",
+                "javascript frameworks: jquery"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "522110",
+                    "label": "Commercial Banking"
+                },
+                "secondary": [
+                    {
+                        "code": "525920",
+                        "label": "Trusts, Estates, and Agency Accounts"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.19",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8855"
+            ],
+            "sic": [
+                {
+                    "code": "6029",
+                    "label": "Commercial Banks, NEC"
+                },
+                {
+                    "code": "6021",
+                    "label": "National Commercial Banks (banking)"
+                },
+                {
+                    "code": "6022",
+                    "label": "State Commercial Banks (commercial banking)"
+                },
+                {
+                    "code": "6081",
+                    "label": "Branches and Agencies of Foreign Banks (branches)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6419",
+                    "label": "Other monetary intermediation"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CB",
+                "label": "Commercial Banks"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": null,
+            "created_at": "2019-11-23T23:33:34.000Z",
+            "last_updated_at": "2023-09-06T19:15:17.233Z"
+        },
+        {
+            "soleadify_id": "b931d763-93e4-11eb-91fb-73d498260b10",
+            "company_name": "MUFG",
+            "company_legal_names": [
+                "MUFG Securities Americas Inc.",
+                "Mitsubishi UFJ Financial Group Inc."
+            ],
+            "company_commercial_names": [
+                "MUFG",
+                "Mitsubishi UFJ Financial Group",
+                "MUFGフィデューシャリー",
+                "MUFGグループは"
+            ],
+            "main_country_code": "JP",
+            "main_country": "Japan",
+            "main_region": "Tokyo",
+            "main_city": "Tokyo",
+            "main_street": "Chuo-dori Avenue",
+            "main_street_number": null,
+            "main_postcode": "103-0027",
+            "main_latitude": null,
+            "main_longitude": null,
+            "locations": [
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Hiroshima",
+                    "postcode": "730-0035",
+                    "street": "Hondori",
+                    "street_number": "7-19",
+                    "latitude": 34.39292907714844,
+                    "longitude": 132.45962524414062
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Nagasaki",
+                    "postcode": "850-8685",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "FR",
+                    "country": "France",
+                    "region": "Ile-de-France",
+                    "city": "Paris",
+                    "postcode": "75002",
+                    "street": "Rue du Quatre Septembre",
+                    "street_number": "18",
+                    "latitude": 48.869747161865234,
+                    "longitude": 2.3361923694610596
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Kakamigahara",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Wakayama",
+                    "postcode": "640-8511",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Numazu",
+                    "postcode": "410-0801",
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Okazaki",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "DE",
+                    "country": "Germany",
+                    "region": "North Rhine-Westphalia",
+                    "city": "Dusseldorf",
+                    "postcode": "40213",
+                    "street": "Breite Straße",
+                    "street_number": "34",
+                    "latitude": 51.22175216674805,
+                    "longitude": 6.777416706085205
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": null,
+                    "city": "Seto",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                },
+                {
+                    "country_code": "JP",
+                    "country": "Japan",
+                    "region": "Chubu Region",
+                    "city": "Kanazawa",
+                    "postcode": "920-0961",
+                    "street": "Hyakumangoku-dori Avenue",
+                    "street_number": "2-4-28",
+                    "latitude": 36.5643310546875,
+                    "longitude": 136.65330505371094
+                }
+            ],
+            "num_locations": 495,
+            "company_type": "Public",
+            "year_founded": 2005,
+            "employee_count": 168500,
+            "estimated_revenue": 50700000000,
+            "short_description": "MUFG holds assets of around US$3.1 trillion as of 2016 and is one of the \"Three Great Houses\" of the Mitsubishi Group alongside Mitsubishi Corporation and Mitsubishi Heavy Industries.",
+            "long_description": "Mitsubishi UFJ Financial Group, Inc. (MUFG; 株式会社三菱UFJフィナンシャル・グループ) is a Japanese bank holding and financial services company headquartered in Chiyoda, Tokyo, Japan. MUFG holds assets of around US$3.1 trillion as of 2016 and is one of the \"Three Great Houses\" of the Mitsubishi Group alongside Mitsubishi Corporation and Mitsubishi Heavy Industries. It is Japan's largest financial group and the world's second largest bank holding company holding around US$1.8 trillion (JP¥148 trillion) in deposits as of March 2011. The letters MUFG come from Mitsubishi and United Financial of Japan.",
+            "business_tags": [
+                "Financial Group",
+                "Asset Management",
+                "Consumer Financing",
+                "Financial Needs",
+                "Share Trading",
+                "Trust Banks",
+                "Banking Holding",
+                "Heavy Industrial"
+            ],
+            "main_business_category": "Banks & ATMs",
+            "main_industry": "Finance",
+            "main_sector": null,
+            "primary_phone": "+81120996314",
+            "phone_numbers": [
+                "+81332408111",
+                "+81120996314",
+                "+81120232711",
+                "+81332405980",
+                "+81362503160",
+                "+81120511687",
+                "+81352221700"
+            ],
+            "primary_email": null,
+            "emails": null,
+            "other_emails": null,
+            "website_url": "https://www.mufg.jp/",
+            "website_domain": "mufg.jp",
+            "website_tld": "jp",
+            "website_language_code": "ja",
+            "facebook_url": "https://facebook.com/cr.mufg",
+            "twitter_url": "https://twitter.com/am_mufg_jp",
+            "instagram_url": "https://instagram.com/am_mufg_jp",
+            "linkedin_url": "http://www.linkedin.com/company/mufg",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "adobe experience manager",
+            "alexa_rank": 653,
+            "technologies": [
+                "miscellaneous: readspeaker",
+                "javascript libraries: lodash",
+                "cms: adobe experience manager",
+                "analytics: facebook custom audiences",
+                "analytics: google ads conversion tracking",
+                "javascript libraries: slick",
+                "javascript frameworks: lo-dash",
+                "widgets: facebook",
+                "retargeting: facebook custom audiences",
+                "javascript libraries: jquery ui",
+                "web servers: apache",
+                "seo tool: facebook friendly",
+                "javascript frameworks: slick",
+                "javascript frameworks: jquery ui",
+                "tag managers: google tag manager",
+                "retargeting: google remarketing tag",
+                "analytics: facebook analytics",
+                "javascript libraries: jquery",
+                "retargeting: facebook",
+                "advertising networks: sizmek",
+                "javascript frameworks: jquery",
+                "analytics: google analytics",
+                "programming languages: java"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "523150",
+                    "label": "Investment Banking and Securities Intermediation"
+                },
+                "secondary": [
+                    {
+                        "code": "522110",
+                        "label": "Commercial Banking"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "64.99",
+                    "label": "Other financial service activities, except insurance and pension funding n.e.c."
+                },
+                {
+                    "code": "66.12",
+                    "label": "Security and commodity contracts brokerage"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8742",
+                "8810"
+            ],
+            "sic": [
+                {
+                    "code": "6211",
+                    "label": "Security Brokers, Dealers, and Flotation Companies (security dealers and underwriters)"
+                },
+                {
+                    "code": "6211",
+                    "label": "Security Brokers, Dealers, and Flotation Companies (security brokers, note brokers)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6612",
+                    "label": "Security and commodity contracts brokerage"
+                },
+                {
+                    "code": "6499",
+                    "label": "Other financial service activities, except insurance and pension funding activities, n.e.c."
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-CB",
+                "label": "Commercial Banks"
+            },
+            "sics_subsector": {
+                "code": "FN.2",
+                "label": "Corporate & Retail Banking"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "615001",
+                    "label": "Investment Institutions"
+                },
+                {
+                    "code": "641501",
+                    "label": "Financial Planners / Advisors"
+                },
+                {
+                    "code": "399101",
+                    "label": "Building Owner - Multiple Occupancy - Mixed-Use Commercial"
+                },
+                {
+                    "code": "641301",
+                    "label": "Mortgage Brokers / Loan Correspondents"
+                },
+                {
+                    "code": "529101",
+                    "label": "Building Owner - Multiple Occupancy - Retail (Not Enclosed Mall)"
+                }
+            ],
+            "created_at": "2019-11-24T02:47:50.000Z",
+            "last_updated_at": "2023-08-15T08:34:04.000Z"
+        },
+        {
+            "soleadify_id": "0bd3c73b-cfed-11ec-934d-b3c725e5fd32",
+            "company_name": "Elevance Health",
+            "company_legal_names": [
+                "Elevance Health Public Policy Institute",
+                "Anthem Inc.",
+                "Elevance Health Inc.",
+                "WellPoint Inc."
+            ],
+            "company_commercial_names": [
+                "Anthem Blue Cross and Blue Shield",
+                "Anthem",
+                "Anthem Insurance Companies",
+                "Elevance Health"
+            ],
+            "main_country_code": "US",
+            "main_country": "United States",
+            "main_region": "Indiana",
+            "main_city": "Indianapolis",
+            "main_street": "Virginia Avenue",
+            "main_street_number": "220",
+            "main_postcode": "46204",
+            "main_latitude": 39.763166350000006,
+            "main_longitude": -86.1508708087034,
+            "locations": [
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Colorado",
+                    "city": "Denver",
+                    "postcode": "80273",
+                    "street": "Broadway",
+                    "street_number": "700",
+                    "latitude": 39.7295245,
+                    "longitude": -104.9874203
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Indiana",
+                    "city": "Indianapolis",
+                    "postcode": "46204",
+                    "street": "Virginia Avenue",
+                    "street_number": "220",
+                    "latitude": 39.763166350000006,
+                    "longitude": -86.1508708087034
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Massachusetts",
+                    "city": "Canton",
+                    "postcode": "02021",
+                    "street": "Royall Street",
+                    "street_number": "150",
+                    "latitude": 42.2053762,
+                    "longitude": -71.13237509783181
+                },
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Rhode Island",
+                    "city": "Providence",
+                    "postcode": null,
+                    "street": null,
+                    "street_number": null,
+                    "latitude": null,
+                    "longitude": null
+                }
+            ],
+            "num_locations": 4,
+            "company_type": "Private",
+            "year_founded": 2004,
+            "employee_count": 102300,
+            "estimated_revenue": 153200000000,
+            "short_description": "Elevance Health, Inc. is an American health insurance provider.",
+            "long_description": "Elevance Health, Inc. is an American health insurance provider. The company's services include medical, pharmaceutical, dental, behavioral health, long-term care, and disability plans through affiliated companies such as Anthem Blue Cross and Blue Shield, Empire BlueCross BlueShield in New York State, Anthem Blue Cross in California, Wellpoint, and Carelon. It is the largest for-profit managed health care company in the Blue Cross Blue Shield Association. As of 2022, the company had 46.8 million members within their affiliated companies' health plans. Prior to June 2022, Elevance Health was named Anthem, Inc. Based on its 2021 revenues, the company ranked 20th on the 2022 Fortune 500.",
+            "business_tags": [
+                "Health & Care",
+                "Whole Health",
+                "Clinical Programming",
+                "Behavior Health",
+                "Improve Health",
+                "Health Plans",
+                "Community Health",
+                "Health System",
+                "Maternal Health"
+            ],
+            "main_business_category": "Health Insurance Agency",
+            "main_industry": "Finance",
+            "main_sector": "Healthcare Services",
+            "primary_phone": "+18003311476",
+            "phone_numbers": [
+                "+18009850999",
+                "+13174886616",
+                "+18003311476",
+                "+18662999628",
+                "+18334011577"
+            ],
+            "primary_email": "privacy.office@elevancehealth.com",
+            "emails": [
+                "privacy.office@elevancehealth.com"
+            ],
+            "other_emails": [
+                "stephen.tanal@elevancehealth.com",
+                "supplierenablement@elevancehealth.com",
+                "shareholder.services@elevancehealth.com",
+                "leslie.porras@elevancehealth.com"
+            ],
+            "website_url": "https://www.elevancehealth.com/",
+            "website_domain": "elevancehealth.com",
+            "website_tld": "com",
+            "website_language_code": "en",
+            "facebook_url": "https://www.facebook.com/caremorehealth/",
+            "twitter_url": "https://twitter.com/elevancehealth",
+            "instagram_url": null,
+            "linkedin_url": "https://www.linkedin.com/company/elevance-health",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "adobe experience manager",
+            "alexa_rank": null,
+            "technologies": [
+                "analytics: adobe analytics",
+                "cms: adobe experience manager",
+                "web frameworks: microsoft asp.net",
+                "cdn: akamai",
+                "retargeting: adobe audience manager",
+                "video players: brightcove",
+                "segmentation: adobe audience manager",
+                "tag managers: adobe dynamic tag management",
+                "operating systems: windows server",
+                "seo tool: facebook friendly",
+                "document management systems: adobe audience manager",
+                "web servers: iis",
+                "a/b testing: omniture adobe test and target",
+                "analytics: adobe audience manager",
+                "seo tool: twitter friendly",
+                "security: akamai bot manager",
+                "programming languages: java"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "524114",
+                    "label": "Direct Health and Medical Insurance Carriers"
+                },
+                "secondary": [
+                    {
+                        "code": "524128",
+                        "label": "Other Direct Insurance (except Life, Health, and Medical) Carriers"
+                    }
+                ]
+            },
+            "nace_rev2": [
+                {
+                    "code": "65.12",
+                    "label": "Non-life insurance"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8810"
+            ],
+            "sic": [
+                {
+                    "code": "6324",
+                    "label": "Hospital and Medical Service Plans (health and medical insurers-direct)"
+                },
+                {
+                    "code": "6321",
+                    "label": "Accident and Health Insurance (health and medical insurers-direct)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6512",
+                    "label": "Non-life insurance"
+                }
+            ],
+            "sics_industry": {
+                "code": "HC-MC",
+                "label": "Managed Care"
+            },
+            "sics_subsector": {
+                "code": "HC.3",
+                "label": "Health Care Providers"
+            },
+            "sics_sector": {
+                "code": "HC",
+                "label": "Health Care"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "641201",
+                    "label": "Insurance Agents / Brokers / Adjusters"
+                },
+                {
+                    "code": "891702",
+                    "label": "Inspection Services - Not Otherwise Classified"
+                },
+                {
+                    "code": "801101",
+                    "label": "Physicians and Surgeons (No Specialist Surgeons)"
+                },
+                {
+                    "code": "891202",
+                    "label": "Home Inspection Services"
+                },
+                {
+                    "code": "802101",
+                    "label": "Chiropractors"
+                }
+            ],
+            "created_at": "2022-05-09T23:09:15.000Z",
+            "last_updated_at": "2023-09-06T18:38:20.927Z"
+        },
+        {
+            "soleadify_id": "8426e466-93e4-11eb-86dd-ffbd1b53140e",
+            "company_name": "Berkshire Hathaway Inc",
+            "company_legal_names": [
+                "Berkshire Hathaway Inc"
+            ],
+            "company_commercial_names": [
+                "Berkshire Hathaway Inc"
+            ],
+            "main_country_code": "US",
+            "main_country": "United States",
+            "main_region": "Nebraska",
+            "main_city": "Omaha",
+            "main_street": "Farnam Street",
+            "main_street_number": "3555",
+            "main_postcode": "68131",
+            "main_latitude": 41.25732089,
+            "main_longitude": -95.96547554,
+            "locations": [
+                {
+                    "country_code": "US",
+                    "country": "United States",
+                    "region": "Nebraska",
+                    "city": "Omaha",
+                    "postcode": "68131",
+                    "street": "Farnam Street",
+                    "street_number": "3555",
+                    "latitude": 41.257347106933594,
+                    "longitude": -95.9658203125
+                }
+            ],
+            "num_locations": 1,
+            "company_type": "Public",
+            "year_founded": 1839,
+            "employee_count": 270000,
+            "estimated_revenue": 224000000000,
+            "short_description": "Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States.",
+            "long_description": "Insurance and reinsurance business activities are conducted through approximately 70 domestic and foreign-based insurance companies. Berkshire's insurance businesses provide insurance and reinsurance of property and casualty risks primarily in the United States. In addition, as a result of the General Re acquisition in December 1998, Berkshire's insurance businesses also includes life, accident, and health reinsurers, as well as internationally based property and casualty reinsurers. Berkshire's insurance companies maintain capital strength at exceptionally high levels. This strength differentiates Berkshire's insurance companies from their competitors. Collectively, the aggregate statutory surplus of Berkshire's U.S.-based insurers was approximately $48 billion as of December 31, 2004. All of Berkshire's major insurance subsidiaries are rated AAA by Standard & Poor's Corporation, the highest Financial Strength Rating assigned by Standard & Poor's, and are rated A++ (superior) by A. M. Best with respect to their financial condition and operating performance.",
+            "business_tags": [
+                "Holding Company",
+                "Retail",
+                "Insurance Group",
+                "Utilities And Energy Group",
+                "Financial Services"
+            ],
+            "main_business_category": "Insurance - Agents, Carriers & Brokers",
+            "main_industry": "Finance",
+            "main_sector": "Finance & Insurance",
+            "primary_phone": "+14023461400",
+            "phone_numbers": [
+                "+12107333954",
+                "+12128083545",
+                "+12128083550"
+            ],
+            "primary_email": "berkshire@berkshirehathaway.com",
+            "emails": [
+                "berkshire@berkshirehathaway.com"
+            ],
+            "other_emails": null,
+            "website_url": "https://www.berkshirehathaway.com/",
+            "website_domain": "berkshirehathaway.com",
+            "website_tld": "com",
+            "website_language_code": "zh",
+            "facebook_url": null,
+            "twitter_url": "https://mobile.twitter.com/berkshire",
+            "instagram_url": "https://www.instagram.com/bhhsrealestate/",
+            "linkedin_url": "https://www.linkedin.com/company/berkshire-hathaway/",
+            "ios_app_url": null,
+            "android_app_url": null,
+            "youtube_url": null,
+            "cms": "blogger",
+            "alexa_rank": null,
+            "technologies": [
+                "analytics: facebook custom audiences",
+                "wordpress plugins: yoast seo - 18.2",
+                "javascript libraries: underscore.js - 1.13.1",
+                "seo tool: yoast seo - 18.2",
+                "paas: wp engine",
+                "seo tool: yoast seo premium - 17.9",
+                "font scripts: google font api",
+                "blogging platforms: wordpress",
+                "ecommerce: woocommerce - 7",
+                "databases: mysql",
+                "widgets: facebook",
+                "retargeting: facebook custom audiences",
+                "captchas: recaptcha",
+                "javascript frameworks: underscore.js - 1.13.1",
+                "javascript frameworks: jquery - 3.0.0",
+                "font scripts: font awesome",
+                "seo tool: facebook friendly",
+                "cms: wordpress",
+                "hosting: wp engine",
+                "ecommerce: cart functionality",
+                "tag managers: google tag manager",
+                "retargeting: facebook",
+                "javascript graphics: chart.js",
+                "wordpress plugins: woocommerce - 7",
+                "cdn: cloudflare",
+                "programming languages: php",
+                "javascript libraries: jquery - 3.0.0",
+                "analytics: google analytics",
+                "analytics: facebook custom audiences",
+                "javascript libraries: jquery migrate - 1.4.1",
+                "widgets: addthis",
+                "javascript libraries: jquery - 1.11.4",
+                "paas: wp engine",
+                "javascript frameworks: react",
+                "blogging platforms: wordpress",
+                "javascript frameworks: jquery - 1.11.4",
+                "video players: youtube",
+                "javascript libraries: modernizr",
+                "databases: mysql",
+                "widgets: facebook",
+                "retargeting: facebook custom audiences",
+                "javascript frameworks: modernizr",
+                "seo tool: facebook friendly",
+                "cms: wordpress",
+                "tag managers: google tag manager",
+                "issue trackers: trackjs",
+                "retargeting: facebook",
+                "cdn: cloudflare",
+                "programming languages: php",
+                "analytics: google analytics",
+                "javascript frameworks: jquery migrate - 1.4.1",
+                "editors: microsoft word -  97",
+                "reverse proxy: nginx",
+                "cdn: sucuri",
+                "tag managers: google tag manager",
+                "web servers: nginx",
+                "analytics: google analytics"
+            ],
+            "naics_2022": {
+                "primary": {
+                    "code": "524126",
+                    "label": "Direct Property and Casualty Insurance Carriers"
+                },
+                "secondary": null
+            },
+            "nace_rev2": [
+                {
+                    "code": "65.12",
+                    "label": "Non-life insurance"
+                }
+            ],
+            "ncci_codes_28_1": [
+                "8723"
+            ],
+            "sic": [
+                {
+                    "code": "6351",
+                    "label": "Fire, Marine, and Casualty Insurance (fire, marine, and casualty insurers-direct, except contact lens insurance)"
+                },
+                {
+                    "code": "6331",
+                    "label": "Surety Insurance (financial responsibility insurers-direct)"
+                }
+            ],
+            "isic_v4": [
+                {
+                    "code": "6512",
+                    "label": "Non-life insurance"
+                }
+            ],
+            "sics_industry": {
+                "code": "FN-IN",
+                "label": "Insurance"
+            },
+            "sics_subsector": {
+                "code": "FN.3",
+                "label": "Insurance"
+            },
+            "sics_sector": {
+                "code": "FN",
+                "label": "Financials"
+            },
+            "ibc_insurance": [
+                {
+                    "code": "631001",
+                    "label": "Insurance Companies"
+                },
+                {
+                    "code": "641201",
+                    "label": "Insurance Agents / Brokers / Adjusters"
+                },
+                {
+                    "code": "641501",
+                    "label": "Financial Planners / Advisors"
+                },
+                {
+                    "code": "862001",
+                    "label": "Professional Associations"
+                },
+                {
+                    "code": "891702",
+                    "label": "Inspection Services - Not Otherwise Classified"
+                }
+            ],
+            "created_at": "2021-12-30T08:22:29.000Z",
+            "last_updated_at": "2022-07-22T14:48:58.185Z"
+        }
+    ]
+}
